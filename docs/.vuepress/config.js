@@ -66,6 +66,7 @@ module.exports = {
         "digitalFlop",
         "scrollBoard",
         "scrollRankingBoard",
+        "vscode-copilot",
       ],
       "/dev/": [""],
     },
