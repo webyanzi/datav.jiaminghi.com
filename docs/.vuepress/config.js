@@ -27,6 +27,10 @@ module.exports = {
         ],
       },
       {
+        text: "Pro版本",
+        link: "/pro/",
+      },
+      {
         text: "支持",
         link: "/support/",
       },
@@ -68,6 +72,7 @@ module.exports = {
         "scrollRankingBoard",
       ],
       "/dev/": [""],
+      "/pro/": [""],
     },
   },
 };
